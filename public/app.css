@@ -1,0 +1,32 @@
+i.icon {
+    font-size: 2em;
+}
+
+.ui.segment:last-child {
+    margin-top: 6em;
+}
+
+#delete {
+    display: inline;
+}
+
+#head {
+    margin-top: 4em;
+    margin-bottom: 10px;
+}
+
+#special {
+    margin-top: 0em;
+}
+
+#content {
+    margin: 1em 0;
+}
+
+#desc {
+    margin-bottom: 1em;
+}
+
+#button {
+    margin-right: 15px;
+}
